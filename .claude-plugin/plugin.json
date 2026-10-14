@@ -1,0 +1,9 @@
+{
+  "name": "agenti-live",
+  "version": "0.1.0",
+  "description": "Pannello live: quali agenti SIVIT e subagenti stanno lavorando e cosa fanno",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pier Claudio Sottil"
+  }
+}
