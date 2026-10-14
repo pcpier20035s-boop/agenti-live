@@ -1,0 +1,5 @@
+{
+     "name": "sivit-agenti",
+     "owner": { "name": "Pier Claudio Sottil" },
+     "plugins": [{ "name": "agenti-live", "source": "./" }]
+   }
